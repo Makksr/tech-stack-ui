@@ -1,0 +1,6 @@
+node_modules
+.env
+.next
+next.config.js
+.output
+dist
